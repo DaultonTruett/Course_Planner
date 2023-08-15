@@ -1,4 +1,5 @@
-# SNHU_CS300_DSA
+# SNHU CS-300: Data Structures and Algorithms: Analysis and Design
+
 # What was the problem you were solving in the projects for this course?
   The focus of the projects in this course was to evaluate common data structures and algorithms for their runtime efficiency using big O analysis and choosing which data structures and algorithms are best for a given application. 
   Project one in this course focused on designing pseudocode for a binary search tree, hash table, and vector data structure. THe psudocode addressed the processes to read data from a csv file, check for format errors, parse each line from the csv file into the data structure, and print each piece of data from the data structure to the console. I was also tasked with performing big O analysis on the three data structure to determine which one was best suited for the application I would create in Project two. The big O analysis I performed on the three data structures focused on the runtime efficiency of insertion and searching for data within the data structure to guide our decision to which data structure would be best to implement in project two. 
